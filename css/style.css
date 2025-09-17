@@ -3812,7 +3812,7 @@ textarea:focus {
 
 ==============================================*/
 .banner-section {
-  padding-top: 155px;
+  padding-top: 75px;
   background-color: #f8f8fc;
 }
 
@@ -3829,7 +3829,7 @@ textarea:focus {
 }
 
 .banner-section .banner-content .title {
-  color: #272a3a;
+  /* color: #272a3a; */
   font-weight: 700;
   line-height: 1.058;
   margin-bottom: 2rem;
